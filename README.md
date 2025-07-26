@@ -6,8 +6,6 @@
 
 ---
 
-<img align="right" alt="Programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a1b4f5a0f9f2b9b01c9fb5e7f5.gif" />
-
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on: **building efficient projects**
