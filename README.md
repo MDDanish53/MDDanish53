@@ -46,7 +46,7 @@
   <a href="mailto:mddanishsiddique472@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40px" />
   </a>
-  <a href="www.linkedin.com/in/mohammad-danish-siddique-767515259" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-danish-siddique-767515259" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
   </a>
 </p>
