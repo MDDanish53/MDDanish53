@@ -1,52 +1,71 @@
-<h1 align="left">Hi 👋, I'm Mohammad Danish Siddique</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mohammad+Danish+Siddique;Full+Stack+Web+Developer;MERN+Stack+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
+</div>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Clean+Code+Advocate;Building+Scalable+Web+Apps;Problem+Solver+by+Passion;Always%20Leveling%20Up%20;Code%20Debug%20Repeat" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on: **building efficient projects**
-- 🌱 I’m learning: **Backend architecture & system design**
-- 🧠 I have strong knowledge of: **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🕵️ I enjoy: **solving problems and resolving issues**
-- 📫 Reach me at: **mddanishsiddique472@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/mohammad-danish-siddique-767515259**
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=MDDanish53&color=brightgreen&style=flat-square&label=Profile+Views)
+  
+</div>
 
 ---
 
-### 🚀 Tech Stack
- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=api&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## 👋 Welcome to My Profile!
+
+Hey there! I'm Danish, a passionate Full Stack Web Developer who loves crafting digital experiences that make a difference. Welcome to my coding journey where creativity meets functionality!
+
+## 🚀 About Me
+
+- 🔭 **Currently Building:** Scalable web applications with MERN stack
+- 🌱 **Learning:** Backend architecture & system design
+- 💻 **Expertise:** MERN Stack (MongoDB, Express, React, Node.js)
+- 🧠 **Passion:** Problem solving and building efficient solutions
+- 📫 **Reach me:** mddanishsiddique472@gmail.com
 
 ---
 
-### 📫 Connect with Me
+## 💻 Tech Stack
 
-<p align="left">
-  <a href="mailto:mddanishsiddique472@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40px" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-danish-siddique-767515259" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
-  </a>
-</p>
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDDanish53&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDDanish53&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mddanishsiddique472@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-danish-siddique-767515259)
+
+</div>
+
+<div align="center">
+  
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+</div>
