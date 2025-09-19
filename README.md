@@ -13,7 +13,7 @@
 Hey there! I'm **Mohammad Danish Siddique**, a **Computer Science & Engineering (CSE) student** currently pursuing **B.Tech (2022–2026)**.  
 I’m passionate about **building scalable web applications** and **exploring Artificial Intelligence** to create innovative digital solutions.  
 
-💡 My journey is focused on becoming a **skilled Full Stack Developer** while diving deeper into **AI & Chatbot Development**.  
+💡 My journey is focused on becoming a **skilled Full Stack Developer** while diving deeper into **AI & Machine Learning**.  
 I love writing **clean, maintainable code**, and I’m constantly improving my problem-solving skills through real-world projects.  
 
 ---
@@ -21,9 +21,9 @@ I love writing **clean, maintainable code**, and I’m constantly improving my p
 ## 🚀 About Me  
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (Graduating 2026)  
 - 🔭 **Currently Building:** MERN-based web applications & real-world projects  
-- 🌱 **Learning:** Backend architecture, system design, and AI integration  
+- 🌱 **Learning:** Data Structure & Algorithms (DSA)  
 - 💻 **Expertise:** MERN Stack (MongoDB, Express, React, Node.js)  
-- 🧠 **Passion:** Problem solving, AI-driven applications & clean code practices  
+- 🧠 **Passion:** Problem solving, Building Scalable Web Apps & clean code practices  
 - 🎯 **Goal:** To become a **Full Stack + AI Engineer** who builds impactful products  
 - 📫 **Reach me:** [mddanishsiddique472@gmail.com](mailto:mddanishsiddique472@gmail.com)  
 
