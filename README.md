@@ -21,7 +21,7 @@ I love writing **clean, maintainable code**, and I’m constantly improving my p
 ## 🚀 About Me  
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (Graduating 2026)  
 - 🔭 **Currently Building:** MERN-based web applications & real-world projects  
-- 🌱 **Learning:** Data Structure & Algorithms (DSA)  
+- 🌱 **Learning:** Data Structures & Algorithms (DSA)  
 - 💻 **Expertise:** MERN Stack (MongoDB, Express, React, Node.js)  
 - 🧠 **Passion:** Problem solving, Building Scalable Web Apps & clean code practices  
 - 🎯 **Goal:** To become a **Full Stack + AI Engineer** who builds impactful products  
