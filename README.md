@@ -85,6 +85,7 @@ skills, practicing <strong>DSA</strong>, and preparing to explore
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,maven,gradle" />
 </p>
+
 ## 🐍 Contribution Activity
 
 <div align="center">
@@ -111,7 +112,7 @@ skills, practicing <strong>DSA</strong>, and preparing to explore
 
 <div align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDDanish53&hide_border=true&theme=github-dark-blue" height="170" />
-
+  
 ## </div>
 
 <h2 align="center">🌐 Connect With Me</h2>
